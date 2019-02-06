@@ -15,7 +15,7 @@ Learning how to write logic &amp; solve / fix problems
 11. JavaScript
 
 ## My Applications
-All Websites, Apps, Games, Programs I created. All the software I made. Here is the list.
+A list of all software I developed:
 1. [www.AbanoubHanna.com](https://www.AbanoubHanna.com "Tech Blog In Arabic") (Web Blog)
 2. [PVC Egypt for Windows and Doors](https://www.pvcegypt.com) (Local Business Website)
 3. [Conv - ASCII Converter](https://play.google.com/store/apps/details?id=com.abanoubhanna.conv) (Android App)
