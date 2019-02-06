@@ -7,7 +7,7 @@ Learning how to write logic &amp; solve / fix problems
 3. Rust (Rustlang)
 4. Go (Golang)
 5. CSharp (C#)
-6. C
+6. C (Clang)
 7. CPP (C++)
 8. Python
 9. Dart
