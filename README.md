@@ -2,7 +2,7 @@
 Learning how to write logic &amp; solve / fix problems
 
 ## Programming Languages
-1. PHP
+1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
 2. Java
 3. Rust (Rustlang)
 4. Go (Golang)
@@ -12,7 +12,7 @@ Learning how to write logic &amp; solve / fix problems
 8. Python
 9. Dart
 10. Swift
-11. JavaScript
+11. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
 
 ## My Applications
 A list of all software I developed:
@@ -33,4 +33,4 @@ A list of all software I developed:
 
 ## Other Dev Topics
 1. Regex
-2. Syntax Cheatsheets for programming languages
+2. [Syntax Cheatsheets for programming languages](https://github.com/DevAbanoub/programming_route/tree/master/cheatsheets)
