@@ -400,3 +400,4 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo).
