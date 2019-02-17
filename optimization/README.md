@@ -3,13 +3,13 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-:memo:   [Optimization Repo / Articles](#articles)
-:newspaper:   [Optimization Repo / Blogs](#blogs)
-:books:   [Optimization Repo / Books](#books)
-:book:   [Optimization Repo / Docs](#documentation)
-:calendar:   [Optimization Repo / Events](#events)
-:busts_in_silhouette:  [Optimization Repo / People](#people)
-:movie_camera:   [Optimization Repo / Talks](#talks)
+- :memo:   [Optimization Repo / Articles](#articles)
+- :newspaper:   [Optimization Repo / Blogs](#blogs)
+- :books:   [Optimization Repo / Books](#books)
+- :book:   [Optimization Repo / Docs](#documentation)
+- :calendar:   [Optimization Repo / Events](#events)
+- :busts_in_silhouette:  [Optimization Repo / People](#people)
+- :movie_camera:   [Optimization Repo / Talks](#talks)
 
 ## Table of Contents
 - [Analyzers](#analyzers)
