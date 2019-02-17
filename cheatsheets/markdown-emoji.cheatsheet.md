@@ -1,5 +1,7 @@
-# Github Emoji Cheatsheet
-a complete cheatsheet for emojis for Github, Slack, Discord, Qiita and Dev.to.
+# Markdown Emoji Cheatsheet
+__Emojis__ (aka _smiley_, _emotions_, and _emoticons_) are ways of artificial facial contact with others online. A complete cheatsheet for emojis for [Github](https://github.com/DevAbanoub), [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Qiita](https://qiita.com/) and [Dev.to](https://dev.to/devabanoub).
+
+Emoticon is a word made up from __emotion__ and __icon __to tell that this is an icon to show the facial expression of the speaker. We love eye contact, facial expressions and body language as it facilitate our understanding of the dialogue, So we all love emojis/emoticons.
 
 ## How to use the emojis
 write `:smile:` in the markdown, and you'll see :smile:.
