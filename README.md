@@ -5,7 +5,7 @@ Learning how to write logic &amp; solve / fix problems
 1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
 2. Java
 3. Rust (Rustlang)
-4. Go (Golang)
+4. [Go (Golang)](https://github.com/DevAbanoub/programming_route/tree/master/Go)
 5. CSharp (C#)
 6. C (Clang)
 7. CPP (C++)
