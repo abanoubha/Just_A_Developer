@@ -34,3 +34,6 @@ A list of all software I developed:
 ## Other Dev Topics
 1. Regex
 2. [Syntax Cheatsheets for programming languages](https://github.com/DevAbanoub/programming_route/tree/master/cheatsheets)
+
+### Fix Problems
+Feel free to report fixes for typos, errors, and problems via [issues](https://github.com/DevAbanoub/programming_route/issues).
