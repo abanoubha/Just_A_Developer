@@ -3,14 +3,14 @@ Learning how to write logic &amp; solve / fix problems
 
 ## Programming Languages
 1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
-2. Java
-3. Rust (Rustlang)
+2. [Java](https://github.com/DevAbanoub/programming_route/tree/master/Java-for-Android)
+3. [Rust](https://github.com/DevAbanoub/programming_route/tree/master/Rust) (Rustlang)
 4. [Go (Golang)](https://github.com/DevAbanoub/programming_route/tree/master/Go)
 5. CSharp (C#)
-6. C (Clang)
+6. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
 7. CPP (C++)
 8. Python
-9. Dart
+9. [Dart](https://github.com/DevAbanoub/programming_route/tree/master/Dart-for-Flutter)
 10. Swift
 11. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
 
@@ -34,6 +34,11 @@ A list of all software I developed:
 ## Other Dev Topics
 1. Regex
 2. [Syntax Cheatsheets for programming languages](https://github.com/DevAbanoub/programming_route/tree/master/cheatsheets)
+
+## List of all OpenSource apps
+1. Android OpenSource Apps using Java
+2. Android OpenSource Apps using Kotlin
+3. Android OpenSource Apps using Flutter
 
 ### Fix Problems
 Feel free to report fixes for typos, errors, and problems via [issues](https://github.com/DevAbanoub/programming_route/issues).
