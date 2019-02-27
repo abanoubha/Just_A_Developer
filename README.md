@@ -16,7 +16,7 @@ Learning how to write logic &amp; solve / fix problems
 
 ## My Applications
 A list of all software I developed:
-1. [www.AbanoubHanna.com](https://www.AbanoubHanna.com "Tech Blog In Arabic") (Web Blog)
+1. [Abanoub Hanna Tech Blog](https://www.AbanoubHanna.com "Tech Blog In Arabic") (Web Blog In Arabic)
 2. [PVC Egypt for Windows and Doors](https://www.pvcegypt.com) (Local Business Website)
 3. [Conv - ASCII Converter](https://play.google.com/store/apps/details?id=com.abanoubhanna.conv) (Android App)
 4. [Coding Cheat Sheets](https://play.google.com/store/apps/details?id=com.abanoubhanna.cheatsheets) (Android App)
