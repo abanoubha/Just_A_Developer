@@ -5,11 +5,11 @@ Learning how to write logic &amp; solve / fix problems
 1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
 2. [Java](https://github.com/DevAbanoub/programming_route/tree/master/Java-for-Android)
 3. [Rust](https://github.com/DevAbanoub/programming_route/tree/master/Rust) (Rustlang)
-4. [Go (Golang)](https://github.com/DevAbanoub/programming_route/tree/master/Go)
+4. [Go](https://github.com/DevAbanoub/programming_route/tree/master/Go) (Golang)
 5. CSharp (C#)
 6. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
 7. CPP (C++)
-8. Python
+8. [Python](https://github.com/DevAbanoub/programming_route/tree/master/Python)
 9. [Dart](https://github.com/DevAbanoub/programming_route/tree/master/Dart-for-Flutter)
 10. Swift
 11. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
