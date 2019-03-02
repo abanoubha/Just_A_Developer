@@ -41,5 +41,19 @@ A list of all software I developed:
 2. Android OpenSource Apps using Kotlin
 3. Android OpenSource Apps using Flutter
 
+## Algorithms
+Algorithms implemented in languages. Here is a list of them.
+- [Rust](https://github.com/TheAlgorithms/Rust)
+- [Go](https://github.com/TheAlgorithms/Go)
+- [Python](https://github.com/TheAlgorithms/Python)
+- [C#](https://github.com/TheAlgorithms/C-Sharp)
+- [Java](https://github.com/TheAlgorithms/Java)
+- [C](https://github.com/TheAlgorithms/C)
+- [JavaScript](https://github.com/TheAlgorithms/Javascript)
+- [CPP](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [R](https://github.com/TheAlgorithms/R)
+- [Scala](https://github.com/TheAlgorithms/Scala)
+- [Ruby](https://github.com/TheAlgorithms/Ruby)
+
 ### Fix Problems
 Feel free to report fixes for typos, errors, and problems via [issues](https://github.com/DevAbanoub/programming_route/issues).
