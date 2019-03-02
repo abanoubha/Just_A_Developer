@@ -33,7 +33,7 @@ A list of all software I developed:
 15. [Smile : jokes make you laugh](https://play.google.com/store/apps/details?id=com.abanoubhanna.smile) (Arabic)
 
 ## Other Dev Topics
-1. Regex
+1. [Regex](https://github.com/DevAbanoub/programming_route/blob/master/regex.md)
 2. [Syntax Cheatsheets for programming languages](https://github.com/DevAbanoub/programming_route/tree/master/cheatsheets)
 
 ## List of all OpenSource apps
