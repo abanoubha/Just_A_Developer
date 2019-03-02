@@ -221,8 +221,8 @@ Flags are placed at the end of the pattern (after the last forward slash) and te
 - m : "multiline" will match your pattern over multiple lines
 
 ### Special Characters
-\d Matches a digit character in the basic Latin alphabet. Equivalent to [0-9]
-\D Matches any character that is not a digit in the basic Latin alphabet. Equivalent to [^0-9]
+- `\d` Matches a digit character in the basic Latin alphabet. Equivalent to `[0-9]`
+- `\D` Matches any character that is not a digit in the basic Latin alphabet. Equivalent to `[^0-9]`
 
 ### Help Improve Docs
 This repo is a documentation. You can help me improve it by reporting [issues](https://github.com/DevAbanoub/programming_route/issues).
