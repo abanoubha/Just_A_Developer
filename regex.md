@@ -119,14 +119,14 @@
 - `U`: Ungreedy mode
 
 ## Using RegEx in JavaScript
-. (period) Matches any single character. For example the regular expression c.t would match the strings cat, cut, c t, but not cart or clot (because there is more than one character between the c and the t)
+`.` (period) Matches any single character. For example the regular expression c.t would match the strings cat, cut, c t, but not cart or clot (because there is more than one character between the c and the t)
 ```javascript
 var text = "Its raining cats and dogs";
 var pattern = /c.t/;
 var match = text.match(pattern);
 console.log(match.index);       // >> 12
 ```
-^ (caret or "circumflex") Matches the beginning of a line. For example, the regular expression ^Once will match the beginning of "Once upon a time" but would not match "I only saw her cry once..."
+`^` (caret or "circumflex") Matches the beginning of a line. For example, the regular expression ^Once will match the beginning of "Once upon a time" but would not match "I only saw her cry once..."
 ```javascript
 var text = "wake up its a beautiful morning!";
 var pattern = /^wake/;
@@ -150,7 +150,7 @@ var pattern = /end$/;
 var match = text.match(pattern);
 console.log(match);             // >> null
 ```
-* (asterisk) Matches zero or more occurences of the character immediately preceding. ma* means match any occurance of the characters ma followed by any other character so it will find matt or marmite but ignore mom because it does not contain ma.
+`*` (asterisk) Matches zero or more occurences of the character immediately preceding. ma* means match any occurance of the characters ma followed by any other character so it will find matt or marmite but ignore mom because it does not contain ma.
 ```javascript
 var text = "The matrix is all around us...";
 var pattern = /ma*/;
@@ -172,7 +172,7 @@ while ( (match = pattern.exec(text)) ) {
 }
 console.log(matches); // >> [ 15, 16, 17 ]
 ```
-[ ] (square brackets) Matches any one of the characters between the brackets For example, the regular expression r[aou]t matches rat, rot, and rut, but not ret.
+`[ ]` (square brackets) Matches any one of the characters between the brackets For example, the regular expression r[aou]t matches rat, rot, and rut, but not ret.
 ```javascript
 var text = "The caged rat felt stuck in a rut.";
 var pattern = /r[aou]t/g;
@@ -182,7 +182,7 @@ while ( (match = pattern.exec(text)) ) {
 }
 console.log(matches); // >> [ 10, 30 ]
 ```
-An example of a range of characters we want to look for is: [0-9] this means means find any digit (its much easier than writing [0123456789])
+An example of a range of characters we want to look for is: `[0-9]` this means means find any digit (its much easier than writing [0123456789])
 ```javascript
 var text = "The 49ers are an American football team based in San Francisco, California";
 var pattern = /[0-9]/;
@@ -204,7 +204,7 @@ while ( (match = pattern.exec(text)) ) {
 }
 console.log(matches); // >> [ 0, 1, 2, 3, 39, 40, 41, 42 ]
 ```
-| (verticle bar or "pipe") Allows us to serach for two conditions together. For example (him|her) matches the line "it belongs to him" and matches the line "it belongs to her" but does not match the line "it belongs to them."
+`|` (verticle bar or "pipe") Allows us to serach for two conditions together. For example (him|her) matches the line "it belongs to him" and matches the line "it belongs to her" but does not match the line "it belongs to them."
 ```javascript
 var text = "2486 runners started the race but only 1865 finished!";
 var pattern = /[0-9]/g;
