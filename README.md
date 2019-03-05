@@ -1,5 +1,13 @@
 # programming_route
-Learning how to write logic &amp; solve / fix problems
+Learning how to write logic &amp; solve problems. It is a spare time project to document all my knowledge of programming in this huge repository.
+
+## Benefits of this repo
+1. ready to use 'functions'
+2. ready to use 'classes'
+3. help other developers with ready to use code/algorithms
+4. collaborate with other developers on Github to improve the published code for better performance
+5. Reference for all my work n training
+6. index of all my applications n projects
 
 ## Programming Languages
 1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
