@@ -1,5 +1,5 @@
 # programming_route
-Learning how to write logic &amp; solve / fix problems
+Learning how to write logic &amp; solve problems. It is a spare time project to document all my knowledge of programming in this huge repository.
 
 ## Programming Languages
 1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
