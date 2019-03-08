@@ -1,14 +1,18 @@
 //the function to get the file as a string
-String getFileFromAssets(String fileName) throws IOException {
-        AssetManager assetManager = getAssets();
-        InputStream ins = assetManager.open(fileName);
-        BufferedReader br = new BufferedReader(new InputStreamReader(ins));
-        StringBuilder sb = null;
-        while (br.readLine() != null){
-            sb.append(br.readLine());
-        }
-        return sb.toString();
-    }
+public String loadData(String inFile) {
+ String tContents = "";
+ try {
+    InputStream stream = getAssets().open(inFile);
+    int size = stream.available();
+    byte[] buffer = new byte[size];
+    stream.read(buffer);
+    stream.close();
+    tContents = new String(buffer);
+ } catch (IOException e) {
+    // Handle exceptions here
+ }
+ return tContents;
+}
 //calling the function
 getFileFromAssets("test.html");
 //or (any file)
