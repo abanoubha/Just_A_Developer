@@ -1,3 +1,7 @@
+//add those permissions to manifest.xml
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
 //call the function
 saveFile(getApplicationContext(), "filename", "the content of the file itself");
 
