@@ -64,5 +64,10 @@ Algorithms implemented in languages. Here is a list of them.
 - [Scala](https://github.com/TheAlgorithms/Scala)
 - [Ruby](https://github.com/TheAlgorithms/Ruby)
 
+## My Gists
+- [Books I Read and Proud Of](https://gist.github.com/DevAbanoub/b9075f269083cfa593fa055cf4b58cd7)
+- [Bash Shell Scripting Cheatsheet](https://gist.github.com/DevAbanoub/73869ceab66bda39cfb3cc6fa939125c)
+- [Notes: best YouTube channels, science, coding challenges](https://gist.github.com/DevAbanoub/9e3f0656c0b2dbef62a656b3ac8c3cf8)
+
 ### Fix Problems
 Feel free to report fixes for typos, errors, and problems via [issues](https://github.com/DevAbanoub/programming_route/issues).
