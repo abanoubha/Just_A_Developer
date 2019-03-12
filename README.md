@@ -40,6 +40,7 @@ A list of all software I developed:
 14. [Street : locate the place that sells what you need](https://www.4ar3.com)
 15. [Smile : jokes make you laugh](https://play.google.com/store/apps/details?id=com.abanoubhanna.smile) (Arabic)
 16. [OCRit : OCR Scanner To Convert Image To Text](https://play.google.com/store/apps/details?id=com.abanoubhanna.ocrit) (English ONLY)
+17. [Arabic OCR : Convert Image into Text](https://play.google.com/store/apps/details?id=com.abanoubhanna.ocr.arabic)
 
 ## Other Dev Topics
 1. [Regex](https://github.com/DevAbanoub/programming_route/blob/master/regex.md)
