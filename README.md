@@ -1,7 +1,7 @@
 # Just A Developer
 Learning how to write logic &amp; solve problems. It is a spare time project to document all my knowledge of programming in this huge repository. I add snippets of code every day in this repo.
 
-Remember "**It always seems impossible until it's done**"!
+Remember "It always seems impossible until it's done"!
 
 ## Benefits of this repo
 1. ready to use functions
