@@ -12,10 +12,10 @@ Remember "It always seems impossible until it's done"!
 6. index of all my applications n projects
 
 ## Programming Languages
-1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP)
+1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP) ❤
 2. [Java](https://github.com/DevAbanoub/programming_route/tree/master/Java-for-Android)
 3. [Rust](https://github.com/DevAbanoub/programming_route/tree/master/Rust) (Rustlang)
-4. [Go](https://github.com/DevAbanoub/programming_route/tree/master/Go) (Golang)
+4. [Go](https://github.com/DevAbanoub/programming_route/tree/master/Go) (Golang) ❤
 5. [CSharp](https://github.com/DevAbanoub/programming_route/tree/master/c-sharp) (C#)
 6. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
 7. CPP (C++)
@@ -23,6 +23,7 @@ Remember "It always seems impossible until it's done"!
 9. [Dart](https://github.com/DevAbanoub/programming_route/tree/master/Dart-for-Flutter)
 10. [Swift](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Swift)
 11. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
+12. [Kotlin for Android](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Kotlin-for-Android)
 
 ## My Applications
 A list of all software I developed:
