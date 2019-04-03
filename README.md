@@ -11,19 +11,19 @@ Remember "It always seems impossible until it's done"!
 5. Reference for all my work n training
 6. index of all my applications n projects
 
-## Programming Languages
-1. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP) ❤
-2. [Java](https://github.com/DevAbanoub/programming_route/tree/master/Java-for-Android)
-3. [Rust](https://github.com/DevAbanoub/programming_route/tree/master/Rust) (Rustlang)
-4. [Go](https://github.com/DevAbanoub/programming_route/tree/master/Go) (Golang) ❤
-5. [CSharp](https://github.com/DevAbanoub/programming_route/tree/master/c-sharp) (C#)
-6. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
-7. CPP (C++)
-8. [Python](https://github.com/DevAbanoub/programming_route/tree/master/Python)
-9. [Dart](https://github.com/DevAbanoub/programming_route/tree/master/Dart-for-Flutter)
-10. [Swift](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Swift)
-11. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
-12. [Kotlin for Android](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Kotlin-for-Android)
+## Programming Languages (ordered by my own PREFERENCE)
+1. [Go](https://github.com/DevAbanoub/programming_route/tree/master/Go) (Golang) ❤
+2. [PHP](https://github.com/DevAbanoub/programming_route/tree/master/PHP) ❤
+3. [Java](https://github.com/DevAbanoub/programming_route/tree/master/Java-for-Android)
+4. [Kotlin for Android](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Kotlin-for-Android)
+5. [JavaScript](https://github.com/DevAbanoub/programming_route/tree/master/JavaScript)
+6. [Rust](https://github.com/DevAbanoub/programming_route/tree/master/Rust) (Rustlang)
+7. [CSharp](https://github.com/DevAbanoub/programming_route/tree/master/c-sharp) (C#)
+8. [Dart](https://github.com/DevAbanoub/programming_route/tree/master/Dart-for-Flutter)
+9. [Swift](https://github.com/DevAbanoub/Just_A_Developer/tree/master/Swift)
+10. CPP (C++)
+11. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
+12. [Python](https://github.com/DevAbanoub/programming_route/tree/master/Python)
 
 ## My Applications
 A list of all software I developed:
