@@ -24,6 +24,7 @@ Remember "It always seems impossible until it's done"!
 10. CPP (C++)
 11. [C](https://github.com/DevAbanoub/programming_route/tree/master/C) (Clang)
 12. [Python](https://github.com/DevAbanoub/programming_route/tree/master/Python)
+13. TypeScript
 
 ## My Applications
 A list of all software I developed:
