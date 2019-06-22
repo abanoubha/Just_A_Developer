@@ -75,5 +75,8 @@ Algorithms implemented in languages. Here is a list of them.
 - [Bash Shell Scripting Cheatsheet](https://gist.github.com/DevAbanoub/73869ceab66bda39cfb3cc6fa939125c)
 - [Notes: best YouTube channels, science, coding challenges](https://gist.github.com/DevAbanoub/9e3f0656c0b2dbef62a656b3ac8c3cf8)
 
+## Code Videos
+- [match a random number with another auto generated random number](https://www.youtube.com/watch?v=pRKrl-83ZTc) (YouTube).
+
 ### Fix Problems
 Feel free to report fixes for typos, errors, and problems via [issues](https://github.com/DevAbanoub/programming_route/issues).
