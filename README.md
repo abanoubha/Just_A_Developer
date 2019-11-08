@@ -43,7 +43,7 @@ A list of all software I developed:
 13. [Cleaning & Pest Control Company in Saudi Arabia](https://www.zahratelwadi.com) (Local Business Website)
 14. [Street : locate the place that sells what you need](https://4ar3.com)
 15. [Smile : jokes make you laugh](https://play.google.com/store/apps/details?id=com.abanoubhanna.smile) (Arabic)
-16. [OCRit : OCR Scanner To Convert Image To Text](https://play.google.com/store/apps/details?id=com.abanoubhanna.ocrit) (English ONLY)
+16. [OCRit : OCR Scanner To Convert Image To Text](https://play.google.com/store/apps/details?id=com.abanoubhanna.ocrit) (OCRit supports English, Catalan, Danish, Dutch, Finnish, French, German, Hungarian, Italian, Latin, Norwegian, Polish, Portugese, Romanian, Spanish, Swedish, Tagalog, Turkish and all Latin-based languages.)
 17. [Arabic OCR : Convert Image into Text](https://play.google.com/store/apps/details?id=com.abanoubhanna.ocr.arabic)
 18. Go Code Snippets (UNDER DEVELOPMENT)
 
