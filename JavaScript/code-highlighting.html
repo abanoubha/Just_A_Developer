@@ -1,0 +1,13 @@
+<script async='async' src='https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js'/>
+<script async='async' defer='defer' type='text/javascript'>
+//<![CDATA[
+var ae = document.getElementsByTagName("blockquote");
+for (var i = 0; i < ae.length; i++) {
+ ae[i].classList.toggle("prettyprint");
+}
+var af = document.getElementsByClassName("prettyprint");
+for (var i = 0; i < af.length; i++) {
+ af[i].outerHTML = af[i].outerHTML.replace(/blockquote/g,"pre");
+}
+//]]>
+</script>
