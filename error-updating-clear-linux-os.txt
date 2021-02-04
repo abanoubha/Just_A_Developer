@@ -13,3 +13,7 @@ Error: Curl - File incompletely downloaded - 'https://cdn.download.clearlinux.or
 Error: Curl - Download error - (92) Stream error in the HTTP/2 framing layer
 Error: Curl - Download error - (92) Stream error in the HTTP/2 framing layer
 Error: Curl - Download error - (92) Stream error in the HTTP/2 framing layer
+
+
+sudo su
+for i in {34010..34220}; do swupd update -V $i; done;
